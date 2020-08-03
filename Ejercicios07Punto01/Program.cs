@@ -1,5 +1,5 @@
 ﻿using System;
-using ConsoleTables;
+using ConsoleTables.Core;
 
 namespace Ejercicios07Punto01
 {
