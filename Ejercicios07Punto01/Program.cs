@@ -132,7 +132,7 @@ namespace Ejercicios07Punto01
             llega hasta la anteúltima */
             for (int posicionOrdenar = 0; posicionOrdenar < tempSemana.Length - 1; posicionOrdenar++)
             {
-                /*cilco para ir moviendo la posicion contra la cual voy comparando
+                /*ciclo para ir moviendo la posicion contra la cual voy comparando
                  siempre arranca desde la posicion que estoy ordenando +1
                 y llega hasta el final del vector */
                 for (int posicionComparar = posicionOrdenar + 1; posicionComparar < tempSemana.Length; posicionComparar++)
